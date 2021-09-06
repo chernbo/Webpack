@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{4:function(o,n){console.log("test里面被重新  加载")(),mul=(o,n)=>o*n,sum=(o,n)=>o+n}}]);

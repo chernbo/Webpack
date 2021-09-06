@@ -1,0 +1,8 @@
+.box{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    background-color: red;
+    backface-visibility: hidden;
+    box-shadow: 0 0 12px deeppink;
+}

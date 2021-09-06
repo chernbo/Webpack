@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,function(n,o,c){n.exports=c(2)},function(n,o,c){"use strict";c.r(o);c(3);var e=c(0),l=c.n(e);console.log(l.a),c.e(2).then(c.bind(null,4)).then(({mul:n})=>{console.log(n(2,5))}).catch(()=>{console.log("文件加载失败")})},function(n,o,c){}],[[1,1,3]]]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{4:function(n,o,t){"use strict";t.r(o),t.d(o,"mul",(function(){return s})),t.d(o,"sum",(function(){return u})),console.log("test里面被重新  加载")();const s=(n,o)=>n*o,u=(n,o)=>n+o}}]);

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/js/test.js"],"names":["mul","a","b","console","log"],"mappings":"sFACO,SAASA,EAAIC,EAAGC,GACnB,OAAOD,EAAIC,EAFfC,mDAAQC,IAAI","file":"js/1..e05785b3a8.js","sourcesContent":["console.log('test里面被重新  加载')\r\nexport function mul(a, b) {\r\n    return a * b;\r\n}\r\n\r\n\r\n"],"sourceRoot":""}
